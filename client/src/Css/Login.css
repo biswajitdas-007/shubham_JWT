@@ -1,0 +1,12 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    margin: 35vh auto;
+    width: 20vw;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    padding: 1%;
+    text-align: start;
+}
+
